@@ -1,0 +1,23 @@
+#heading2{
+    color: orange;
+    margin: 20px;
+    border: black dotted 2px;
+    
+    
+}
+.bluebackground{
+    background-color: mediumblue;
+}
+p{
+    border: mediumturquoise solid 8px;
+}
+span{
+    color: red;
+}
+.redword{
+    font-weight: bold;
+    font-style: italic;
+}
+#change{
+    font-weight: bolder;
+}
